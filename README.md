@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex Paul Migit</h1>
+<h1 align="center">Bonjour 👋, Je m'appelle Alex Paul Migit</h1>
+<p align="center">Weightlifter | Reader | Advisor</p>
 <h3 align="center">A passionate Cloud Data Engineer from California</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmigit&show_icons=true&locale=en&layout=compact" alt="alexmigit" /></p>
